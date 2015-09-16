@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 悲華經
+#+DATE: 2015-08-30 19:33:30.528996
+#+PROPERTY: JUAN 0
