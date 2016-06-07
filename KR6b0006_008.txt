@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:30.144277
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:49
 #+TITLE: 悲華經
 #+PROPERTY: CBETA_ID T03n0157
 #+PROPERTY: ID KR6b0006
@@ -484,7 +484,8 @@
 恭敬向大悲菩薩，供養散種種華，乃至技¶
 樂而供養之。復種種讚歎，讚歎已，默然而住。¶
 
-5檀波羅蜜品
+* 5檀波羅蜜品
+** 1
 :PROPERTIES:
 :head: 《悲華經》檀波羅蜜品第五之一
 :END:

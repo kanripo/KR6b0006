@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:29.933248
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:49
 #+TITLE: 悲華經
 #+PROPERTY: CBETA_ID T03n0157
 #+PROPERTY: ID KR6b0006
@@ -17,7 +17,7 @@
 ¶
 北涼天竺三藏曇無讖譯¶
 
-3大施品
+* 3大施品
 :PROPERTIES:
 :head: 大施品第三之一
 :END:
